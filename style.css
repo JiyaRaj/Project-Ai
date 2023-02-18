@@ -1,0 +1,16 @@
+body{
+    background-image: url("th.jfif") ; 
+    background-size: cover;
+    background-position: center;
+    color:antiquewhite
+}
+#note{
+    color: beige;
+}
+h2{
+    margin-top: 5px;
+}
+canvas{
+    border: dotted goldenrod 3px;
+    margin-top: 20px;
+}
